@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/nLV08T9k/work.gif">
+  <img src="https://cdn.jsdelivr.net/gh/NanakoOfficial/NanakoOfficial/work.gif">
 </div>
 <h3 align="center">我在成长，也在丢失从前的自己。</h3>
 <div align="center">
