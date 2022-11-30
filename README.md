@@ -3,6 +3,7 @@
 </div>
 <h3 align="center">我在成长，也在丢失从前的自己。</h3>
 <h3 align="center">I'm growing up, and losing myself.</h3>
+</br>
 <div align="center">
   <a href="https://www.ch3rry.cn/"><img src="https://img.shields.io/badge/Blog-博客-brightgreen"></a>&emsp;
   <a href="http://wpa.qq.com/msgrd?v=3&uin=712111161&site=qq&menu=yes"><img src="https://img.shields.io/badge/Tencent-QQ-red"></a>&emsp;
